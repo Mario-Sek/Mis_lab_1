@@ -1,16 +1,16 @@
 # mis_lab_1_223287
 
-A new Flutter project.
+# MIS Laboratory Exercises 1
 
-## Getting Started
+## Screenshots of the App
 
-This project is a starting point for a Flutter application.
+### Home Screen
+![Screenshot 1](images/1.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Expired Exam Card
+![Screenshot 2](images/2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Upcoming Exam Card
+![Screenshot 3](images/3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
