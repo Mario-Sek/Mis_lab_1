@@ -5,12 +5,12 @@
 ## Screenshots of the App
 
 ### Home Screen
-![Screenshot 1](images/1.png)
+![Screenshot 1](images/1.PNG)
 
 ### Expired Exam Card
-![Screenshot 2](images/2.png)
+![Screenshot 2](images/2.PNG)
 
 ### Upcoming Exam Card
-![Screenshot 3](images/3.png)
+![Screenshot 3](images/3.PNG)
 
 
