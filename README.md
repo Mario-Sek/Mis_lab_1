@@ -1,6 +1,6 @@
 # mis_lab_1_223287
 
-# MIS Laboratory Exercises 1
+# MIS Laboratory Exercise 1
 
 ## Screenshots of the App
 
